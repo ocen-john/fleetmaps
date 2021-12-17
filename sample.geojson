@@ -3,6 +3,10 @@
     { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [2.451907,32.593068]},
       "properties": {"name": "david"}
-      }
+   },
+   { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.351907,32.793068]},
+      "properties": {"name": "david"}
+   }
    ]
 }
