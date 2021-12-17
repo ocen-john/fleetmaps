@@ -3,30 +3,6 @@
     { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [2.451907,32.593068]},
       "properties": {"name": "david"}
-      },
-	      { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [2.390023,32.512402]},
-      "properties": {"name": "es"}
-      },
-	      { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [2.442288,33.037873]},
-      "properties": {"name": "ivan"}
-      },
-	      { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [2.2348626,32.8615056]},
-      "properties": {"name": "maxwell"}
-      },
-	      { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [2.6743790,32.5722534]},
-      "properties": {"name": "stella"}
-      },
-	      { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [2.2554651,32.8962386]},
-      "properties": {"name": "kembazi"}
-      },
-	      { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [2.7705504,32.3092937]},
-      "properties": {"name": "acen"}
       }
-    ]
-  }
+   ]
+}
