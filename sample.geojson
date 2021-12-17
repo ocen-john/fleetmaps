@@ -27,6 +27,6 @@
 	      { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [2.7705504,32.3092937]},
       "properties": {"name": "acen"}
-      },
+      }
     ]
   }
